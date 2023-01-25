@@ -67,4 +67,4 @@ service, repository, factory, helper 등이 프로바이더에 해당한다.
 nestjs가 제공하는 provider의 핵심
 1. 의존성 주입 (dependency injection - di)
 객체를 생성하고, 사용할 때 관심사 분리가능. --> 코드의 가독성과 재사용성이 높은 sw
-2. 
+
